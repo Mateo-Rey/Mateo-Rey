@@ -15,8 +15,8 @@
 | Project | Description |
 |--------|-------------|
 | **ClipIt** | A web app for sharing clips, featuring post creation (title, content, image URL), a dynamic feed, upvoting, commenting, search, sorting, editing/delete functionality, and optional pseudo-authentication by secret key. https://github.com/Mateo-Rey/ClipIt|
-| **Theme Park Simulation (Frontend)** | A React + TypeScript real-time theme park management game with guest and ride control, a prestige system, automation features, and WebSocket-powered live updates. :contentReference[oaicite:2]{index=2} |
-| **Theme Park Simulation (Frontend)** | A React + TypeScript real-time theme park management game with guest and ride control, a prestige system, automation features, and WebSocket-powered live updates. :contentReference[oaicite:2]{index=2} |
+| **Theme Park Simulation (Backend)** | A React + TypeScript real-time theme park management game with guest and ride control, a prestige system, automation features, and WebSocket-powered live updates. https://github.com/Mateo-Rey/LiveZoneAPI |
+| **Elevator Simulation ** |Built a Python WebSocket server and Tkinter UI to simulate a modular elevator system in UE5. Used for stakeholder visualization and timing analysis. https://github.com/Mateo-Rey/UE5-Elevator-PythonWSS |
 ---
 
 ###  Tech Stack
@@ -30,7 +30,7 @@ I love building **real-time, interactive web experiences**—whether it’s a co
 
 ###  Get In Touch
 - Found something cool or want to collaborate? Let’s chat!
-- Follow me at [linkedin](https://www.linkedin.com/in/mateo-rey-132926245/)
+- Follow me on [LinkedIn](https://www.linkedin.com/in/mateo-rey-132926245/)
 
 ---
 
